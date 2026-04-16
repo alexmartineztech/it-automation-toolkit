@@ -1,5 +1,3 @@
-# it-automation-toolkit
-
 # IT Automation Toolkit
 
 ## 🚀 Overview
@@ -27,3 +25,7 @@ This project reflects how IT Support Engineers can automate repetitive tasks and
 
 ## 👨‍💻 Author
 Alex Martinez – IT Support Engineer transitioning into Automation & Application Support
+
+## 📸 Example Output
+
+### User Provisioning
